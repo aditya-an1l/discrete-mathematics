@@ -62,6 +62,6 @@ To solve the puzzle, you must adhere to the following rules:
 - **Uppermost Disk Movement**: Each move consists of taking the disk that is on the top of one stack (the uppermost disk) and placing it on top of another stack. A disk can only be moved if it is the topmost disk of its current stack.
 - **Size Constraint**: You cannot place a larger disk on top of a smaller disk. This rule ensures that the disks are always arranged in descending order on each rod.
 
-<figure> <img src="https://raw.githubusercontent.com/aditya-an1l/discrete-mathematics/main/media/tower-of-hanoi" alt="Tower Of Hanoi" width="70%" height="80%"> 
+<figure> <img src="https://raw.githubusercontent.com/aditya-an1l/discrete-mathematics/main/media/tower-of-hanoi.png" alt="Tower Of Hanoi" width="70%" height="80%"> 
   
 <figcaption>Movement of Discs to solve the puzzle. (<a href="https://www.geeksforgeeks.org/python-program-for-tower-of-hanoi/">Credit: geeksforgeeks</a>)/figcaption> </figure>
