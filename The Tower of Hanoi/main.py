@@ -8,6 +8,7 @@ Auxiliary Space: O(n)
 
 # Recursive Python function to solve the tower of hanoi
 def TowerOfHanoi(n, source, destination, auxiliary):
+    """Disc being transfered from source -> auxiliary"""
     if n == 1:
         print("Move disk 1 from source", source, "to destination", destination)
         return
@@ -19,4 +20,4 @@ def TowerOfHanoi(n, source, destination, auxiliary):
 number_of_discs = 4
 
 TowerOfHanoi(number_of_discs, "A", "B", "C")
-# A, C, B are the name of rods
+# A, B, C are the name of rods
