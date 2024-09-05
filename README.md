@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Logo" src="https://raw.githubusercontent.com/aditya-an1l/discrete-mathematics/main/media/Logo.jfif" width="800" height="800">
+  <img alt="Logo" src="https://raw.githubusercontent.com/aditya-an1l/discrete-mathematics/main/media/Logo.jfif" width="50%" height="50%">
 <h1><b>Discrete Mathematics</b></h1>
 </div>
 
@@ -64,7 +64,7 @@ To solve the puzzle, you must adhere to the following rules:
 
 <div align="center">
 <figure> <img src="https://raw.githubusercontent.com/aditya-an1l/discrete-mathematics/main/media/tower-of-hanoi.png" alt="Tower Of Hanoi" width="70%" height="80%"> 
-  
+<br>
 <figcaption>Movement of Discs to solve the puzzle. (<a href="https://www.geeksforgeeks.org/python-program-for-tower-of-hanoi/">Credit: geeksforgeeks</a>)</figcaption> </figure>
 
 </div>
