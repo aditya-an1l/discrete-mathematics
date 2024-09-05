@@ -11,13 +11,13 @@
       <img alt="Last commit" src="https://img.shields.io/github/last-commit/aditya-an1l/discrete-mathematics?style=for-the-badge&logo=git&color=ebeb46&logoColor=FFFFFF&labelColor=000000"/>
     </a>
     <a href="https://github.com/aditya-an1l/discrete-mathematics/blob/main/LICENSE">
-      <img alt="License" src="https://img.shields.io/github/license/aditya-an1l/discrete-mathematics?style=for-the-badge&logo=apache&color=D9FFFF&logoColor=FFFFFF&labelColor=000000" />
+      <img alt="License" src="https://img.shields.io/github/license/aditya-an1l/discrete-mathematics?style=for-the-badge&logo=apache&color=7c675f&logoColor=FFFFFF&labelColor=000000" />
     </a>
     <a href="https://github.com/aditya-an1l/discrete-mathematics/stargazers">
       <img alt="Stars" src="https://img.shields.io/github/stars/aditya-an1l/discrete-mathematics?style=for-the-badge&logo=starship&color=ebeb46&logoColor=FFFFFF&labelColor=000000" />
     </a>
     <a href="https://github.com/aditya-an1l/discrete-mathematics/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/aditya-an1l/discrete-mathematics?style=for-the-badge&logo=gitbook&color=D9FFFF&logoColor=FFFFFF&labelColor=000000" />
+      <img alt="Issues" src="https://img.shields.io/github/issues/aditya-an1l/discrete-mathematics?style=for-the-badge&logo=gitbook&color=7c675f&logoColor=FFFFFF&labelColor=000000" />
     </a>
     <a href="https://github.com/aditya-an1l/discrete-mathematics">
       <img alt="Repo Size" src="https://img.shields.io/github/repo-size/aditya-an1l/discrete-mathematics?color=ebeb46&label=SIZE&logo=files&style=for-the-badge&logoColor=FFFFFF&labelColor=000000" />
