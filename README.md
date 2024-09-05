@@ -54,7 +54,7 @@ The Tower of Hanoi is a classic mathematical puzzle that involves three rods and
 
 The goal of the Tower of Hanoi is to transfer the entire stack of disks from the starting rod to a designated target rod.
 
-## Rules
+### Rules
 
 To solve the puzzle, you must adhere to the following rules:
 
