@@ -32,7 +32,8 @@
 <h2><b> ➕ Tools, Visualisations and Code for Understanding the concepts of Discrete Mathematics</b></h2>
 </div>
 
-## ⚠️ Under Development ⚠️
+> [!WARNING]
+> Under active development
 
 This repository contains the codes for Visualisations and Application of various discrete mathematics concepts. Great for those who wants to learn how various concepts of discrete mathematics are applied and visualised programmatically.
 
@@ -41,10 +42,14 @@ This repository (as of now) contains python code - making it a bit easier to rea
 <details>
 <summary><h2>TOC</h2></summary>
 
-# TOC
+## TOC
 
 - [TOC](#toc)
-  - </details>
+- [Tower of Hanoi](#tower-of-hanoi)
+  - [Objective](#objective)
+  - [Rules](#rules)
+
+</details>
 
 ## Tower of Hanoi
 
