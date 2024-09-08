@@ -33,7 +33,7 @@
 </div>
 
 > [!WARNING]
-> Under active development
+> Under active development ⚠️
 
 This repository contains the codes for Visualisations and Application of various discrete mathematics concepts. Great for those who wants to learn how various concepts of discrete mathematics are applied and visualised programmatically.
 
