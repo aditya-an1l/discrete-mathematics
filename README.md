@@ -41,10 +41,6 @@ This repository (as of now) contains python code - making it a bit easier to rea
 
 <details>
 <summary><h2>TOC</h2></summary>
-
-## TOC
-
-- [TOC](#toc)
 - [Tower of Hanoi](#tower-of-hanoi)
   - [Objective](#objective)
   - [Rules](#rules)
